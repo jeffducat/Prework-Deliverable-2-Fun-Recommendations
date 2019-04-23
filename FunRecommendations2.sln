@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunRecommendations2", "FunRecommendations2\FunRecommendations2.csproj", "{F86EFC48-EA66-4E48-8209-95ADCD648AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F86EFC48-EA66-4E48-8209-95ADCD648AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86EFC48-EA66-4E48-8209-95ADCD648AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86EFC48-EA66-4E48-8209-95ADCD648AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86EFC48-EA66-4E48-8209-95ADCD648AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {222C9B4B-A42F-45E1-A717-5F4E2D1B6FD1}
+	EndGlobalSection
+EndGlobal
